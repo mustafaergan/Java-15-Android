@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="user_name">Kullanıcı İsmi</string>
+    <string name="pass">Şifre</string>
+    <string name="btName">Giriş</string>
+</resources>

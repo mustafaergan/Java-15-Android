@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/myItem"
+            android:title="Deneme1"
+        android:onClick="deneme1"/>
+
+    <item android:id="@+id/myItem1"
+        android:title="Deneme2"
+        android:onClick="deneme2"/>
+
+
+</menu>
