@@ -1,0 +1,18 @@
+# Gradle / Android derleme çıktısı
+.gradle/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Diğer
+*.log
+.DS_Store
+Thumbs.db
